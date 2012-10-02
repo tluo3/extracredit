@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/thenaminator/lettersofrec/Rohit Dusgupta'
+let g:netrw_dirhist_2='/Users/thenaminator/subarubrz.git/template 03 report'
+let g:netrw_dirhist_3='/Users/thenaminator/.ssh'
+let g:netrw_dirhist_4='/Applications/MATLAB_R2012b.app'
+let g:netrw_dirhist_5='/Users/thenaminator/aerospace.git/OLDER FOLDERS/Working_Statement_RIPS12'
+let g:netrw_dirhist_6='/Users/thenaminator/aerospace.git/OLDER FOLDERS'
+let g:netrw_dirhist_7='/Users/thenaminator'
+let g:netrw_dirhist_8='/Users/thenaminator/subaruBRZ.git/avmedia'

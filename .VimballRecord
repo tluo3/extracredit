@@ -1,0 +1,1 @@
+screen.vba: call delete('/Users/thenaminator/.vim/autoload/screen.vim')|call delete('/Users/thenaminator/.vim/doc/screen.txt')|call delete('/Users/thenaminator/.vim/plugin/screen.vim')
